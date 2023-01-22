@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+  width: 232px;
+  flex-direction: column;
+  list-style-type: none;
+}
+.image {
+  width: 250px;
+  height: 180px;
+}
+.name {
+  font-size: 18px;
+  color: #000000;
+  font-family: 'Roboto';
+}
